@@ -14,10 +14,7 @@ The server collect data every minute from the ESPs, filter packs not listened fr
 -On /server_and_analyzer you'll find code for Server, Analyzer, Database in C++ and GUI made with QT libraries. 
 
 
-Walter Maffione,  
-Stefano Tata, 
-Marco Bergesio, 
-Luigi Napoleone Capasso
+Walter Maffione, Stefano Tata, Marco Bergesio, Luigi Napoleone Capasso
 
 
 Politecnico di Torino - Programmazione di Sistema 2018/2019

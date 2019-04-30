@@ -1,4 +1,4 @@
-ESP ATTENDANCE PROJECT 
+ESP ATTENDANCE PROJECT
 
 Require: Ubuntu, ESP32 Module (2 to 4), Sqlite3, QT
 Written in: C,C++,SQL
@@ -12,3 +12,10 @@ The server collect data every minute from the ESPs, filter packs not listened fr
 -On /esp_probe_req_sniffer you'll find code for the ESP modules, search on https://docs.espressif.com/projects/esp-idf/ how to flash them.
 
 -On /server_and_analyzer you'll find code for Server, Analyzer, Database in C++ and GUI made with QT libraries. 
+
+Walter Maffione 
+Stefano Tata
+Marco Bergesio
+Luigi Napoleone Capasso
+
+Politecnico di Torino - Programmazione di Sistema 2018/2019

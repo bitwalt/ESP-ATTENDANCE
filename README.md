@@ -1,6 +1,7 @@
 ESP ATTENDANCE PROJECT
 
 Require: Ubuntu, ESP32 Module (2 to 4), Sqlite3, QT
+
 Written in: C,C++,SQL
 
 This is an university project able to detect on short/long period an estimate of the number of people inside the intersection area of ESP32 modules. 
